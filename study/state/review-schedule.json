@@ -1,0 +1,36 @@
+[
+  {
+    "subject": "ENVRSUST 9014",
+    "topic": "r-read-clean",
+    "notePath": "notes/ENVRSUST 9014/r-read-clean.md",
+    "lastReviewed": "2026-10-25",
+    "intervalDays": 1,
+    "dueDate": "2026-10-26",
+    "streak": 1,
+    "lapses": 0,
+    "keyPoints": [
+      "snake_case names only exist after clean_names(); load janitor + tidyverse first"
+    ],
+    "asked": [
+      "R01"
+    ],
+    "lastResult": "solid"
+  },
+  {
+    "subject": "ENVRSUST 9014",
+    "topic": "qgis-load-crs",
+    "notePath": "notes/ENVRSUST 9014/qgis-load-crs.md",
+    "lastReviewed": "2026-10-25",
+    "intervalDays": 1,
+    "dueDate": "2026-10-26",
+    "streak": 0,
+    "lapses": 0,
+    "keyPoints": [
+      "Add Delimited Text Layer; X = decimalLongitude, Y = decimalLatitude; EPSG:4326"
+    ],
+    "asked": [
+      "Q01"
+    ],
+    "lastResult": "shaky"
+  }
+]
